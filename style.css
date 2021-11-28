@@ -1,0 +1,12 @@
+body{
+background: url('background.jpg');
+}
+
+#div1 {
+    width: 100%;
+}
+
+#btn1{
+    margin-bottom: 10px;
+    width: 50%;
+}
